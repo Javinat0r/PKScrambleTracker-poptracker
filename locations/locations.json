@@ -426,9 +426,7 @@
 				"sections": [{
 					"name": "Factory Boss",
 					"hosted_item": "mrsaturn"
-				},
-				
-				],
+				}],
 				"map_locations": [{
 					"map": "WorldMap",
 					"x": 811,

@@ -9,12 +9,13 @@
     {
         "standard":
         {
-            "display_name": "Standard"
+            "display_name": "Standard",
+            "flags": ["hirom"]
         },
         "randomstart":
         {
-            "display_name": "Random Starting Location"
+            "display_name": "Random Starting Location",
+            "flags": ["hirom"]
         }
     }
-}
 }
